@@ -1,12 +1,7 @@
-
-[Alivia Blount](https://www.linkedin.com/in/aliviablount/)
-
 [Camille Eddy](https://www.linkedin.com/in/camilleeddy/)
 
-[![Alt text](https://img.youtube.com/vi/KaKToTdNRZY/hqdefault.jpg)](https://www.youtube.com/watch?v=KaKToTdNRZY)
 
 # Bias in AI Tools for Algorithmic fairness and accountability
-[Explanation of Talk](https://www.youtube.com/watch?v=LFADNppMYZQ)
 
 ## Abstract
 Abstract:
@@ -74,13 +69,13 @@ teach yourself more
 
 ## Agenda
 
-- [Let's talk about machines and automation](https://docs.google.com/presentation/d/1TEFb3xhg765oZb977kqL88mW27asBvm070WGKtI-7ic/edit?usp=sharing) (30 minutes) - Alivia
+- [Let's talk about machines and automation](https://docs.google.com/presentation/d/1TEFb3xhg765oZb977kqL88mW27asBvm070WGKtI-7ic/edit?usp=sharing) (30 minutes)
 - [Algorithmic changes in the workplace](https://docs.google.com/presentation/d/12WWIX6YfzDqSLEt8SguL5qEmyF8bnlxG/edit#slide=id.p1)
 
 - [Overview: What is Algorithmic fairness and why should you care](https://docs.google.com/presentation/d/12WWIX6YfzDqSLEt8SguL5qEmyF8bnlxG/edit#slide=id.p1)
 
-- [Additional Reading](https://docs.google.com/presentation/d/17Yxf31XvD8O9Prc9BhVE3H32Cgt-RMYF68Kvv4Bcbao/edit?usp=sharing) (30 minutes) - Camille
-- [Organizations working in the field]() (30 minutes) - Alivia
+- [Additional Reading](https://docs.google.com/presentation/d/17Yxf31XvD8O9Prc9BhVE3H32Cgt-RMYF68Kvv4Bcbao/edit?usp=sharing) (30 minutes) 
+- [Organizations working in the field]() (30 minutes) 
     - [AI Now](https://ainowinstitute.org/) 
       - AI Now is a research institution based out of NYU examinging the social implications of aritificial intelligence.
       - Each year AI now holds a symposium, [2018](https://www.youtube.com/watch?v=NmdAtfcmTNg) [2017](https://www.youtube.com/watch?v=npL_UsK_npE)
@@ -109,7 +104,7 @@ teach yourself more
   ![alt text](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.discoverdesign.org%2Fsites%2Fdefault%2Ffiles%2Finline-images%2FCAC-Design-Process-Chart_900x867px-01.jpg&f=1)
   
   
-- Data and accountability + feasibility. Who understands the data being piped into these algorithms and why do data analysts +    data scientists matter? (30 -minutes) - Alivia
+- Data and accountability + feasibility. Who understands the data being piped into these algorithms and why do data analysts +    data scientists matter? (30 -minutes)
 - [Algorithmically enhanced machines - when hardware and software combine](https://drive.google.com/file/d/17DmuIMZXEwYJ9V-8VW9eI3j3YSDMm4k9/view?usp=sharing)
 
   - autonomous fleets
